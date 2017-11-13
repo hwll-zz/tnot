@@ -10,8 +10,6 @@ Install using [pip]() with..
 pip install tnot
 ```
 
-Alternatively, [manually]().
-
 ## Examples
 
 Send a notification displaying some basic information.
